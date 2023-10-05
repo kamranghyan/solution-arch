@@ -1,0 +1,6 @@
+---
+title : Solution Architect 
+author : Kamran Ghyan
+rights : Create commong non commercial share
+language : en-US
+---
